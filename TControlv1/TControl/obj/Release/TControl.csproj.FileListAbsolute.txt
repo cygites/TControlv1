@@ -1,0 +1,11 @@
+F:\visual ST\TControl1\TControl\bin\Release\TControl.exe.config
+F:\visual ST\TControl1\TControl\bin\Release\TControl.exe
+F:\visual ST\TControl1\TControl\bin\Release\TControl.pdb
+F:\visual ST\TControl1\TControl\obj\Release\TControl.csprojAssemblyReference.cache
+F:\visual ST\TControl1\TControl\obj\Release\TControl.Form1.resources
+F:\visual ST\TControl1\TControl\obj\Release\TControl.Form2.resources
+F:\visual ST\TControl1\TControl\obj\Release\TControl.Properties.Resources.resources
+F:\visual ST\TControl1\TControl\obj\Release\TControl.csproj.GenerateResource.cache
+F:\visual ST\TControl1\TControl\obj\Release\TControl.csproj.CoreCompileInputs.cache
+F:\visual ST\TControl1\TControl\obj\Release\TControl.exe
+F:\visual ST\TControl1\TControl\obj\Release\TControl.pdb
